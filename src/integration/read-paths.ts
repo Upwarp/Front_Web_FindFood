@@ -1,0 +1,16 @@
+export const readPaths = [
+  "/donaciones",
+  "/distribuciones",
+  "/incidencias",
+  "/alertas",
+  "/rutas",
+  "/recepciones",
+  "/inventario",
+  "/almacenes",
+  "/voluntarios",
+  "/pendientes",
+  "/configuracion",
+  "/reportes",
+  "/asignaciones",
+  "/recepcion",
+];
